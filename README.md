@@ -1,3 +1,5 @@
+RCL Protocol Prototype. Open /?role=dispatcher and /?role=hospital to test the live sync.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
